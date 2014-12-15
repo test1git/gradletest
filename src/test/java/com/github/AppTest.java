@@ -7,7 +7,7 @@ import junit.framework.TestSuite;
 //Pending comments
 
 //sfsdfsdSome comments on the master branch
-//Added some comments on the branch for the egit demo
+//Aasdasddded some comments on the branch for the egit demo
 
 /**
  * Unit test for simple App.
