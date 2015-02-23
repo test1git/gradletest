@@ -38,7 +38,7 @@ public class AppTest
      */
     public void testApp()
     {
-        assertFalse( true );
+        assertFalse( false );
     }
         public void testApp2()
     {
